@@ -1,0 +1,7 @@
+arguments: C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/align_dataset_mtcnn.py
+--------------------
+tensorflow version: 1.15.0
+--------------------
+git hash: git rev-parse HEAD: 지정된 파일을 찾을 수 없습니다
+--------------------
+git diff HEAD: 지정된 파일을 찾을 수 없습니다

@@ -1,0 +1,485 @@
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\4human\4human2.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\4human\4human1.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\4human\4human5.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\4human\4human3.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\4human\4human4.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\2human\2human5.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\2human\2human1.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\2human\2human4.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\2human\2human3.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\2human\2human2.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human57.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human196.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human166.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human150.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human101.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human31.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human46.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human73.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human119.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human79.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human137.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human180.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human149.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human17.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human89.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human144.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human167.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human30.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human20.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human110.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human184.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human90.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human191.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human82.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human130.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human1.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human118.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human159.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human129.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human22.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human65.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human128.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human3.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human39.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human139.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human50.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human77.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human114.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human36.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human188.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human15.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human136.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human54.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human160.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human83.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human96.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human158.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human113.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human135.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human19.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human74.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human105.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human29.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human72.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human199.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human86.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human87.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human133.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human81.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human78.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human169.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human88.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human148.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human103.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human173.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human131.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human197.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human55.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human143.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human61.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human21.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human141.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human108.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human62.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human76.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human93.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human185.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human152.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human181.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human99.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human154.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human24.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human25.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human186.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human23.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human53.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human177.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human68.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human80.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human172.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human33.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human69.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human117.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human37.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human34.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human193.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human92.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human40.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human9.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human11.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human7.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human63.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human155.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human168.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human147.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human35.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human182.png 0 0 159 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human111.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human138.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human107.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human66.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human45.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human95.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human38.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human165.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human132.png 0 0 156 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human134.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human179.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human122.png 0 0 157 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human98.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human175.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human151.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human51.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human94.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human6.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human187.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human146.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human16.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human162.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human56.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human156.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human178.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human195.png 0 0 146 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human121.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human198.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human126.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human192.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human60.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human112.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human142.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human104.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human157.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human70.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human4.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human64.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human183.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human44.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human194.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human161.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human28.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human109.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human67.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human100.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human41.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human75.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human120.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human84.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human91.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human52.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human127.png 0 0 147 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human13.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human18.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human5.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human43.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human8.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human116.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human153.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human42.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human124.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human170.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human59.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human145.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human97.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human125.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human189.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human85.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human47.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human26.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human171.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human14.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human164.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human58.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human48.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human176.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human10.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human106.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human102.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human140.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human2.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human163.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human123.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human71.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human174.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human115.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human190.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human32.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human27.png 0 0 158 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human12.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\1human\1human49.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human175.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human14.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human113.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human34.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human165.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human128.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human36.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human136.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human44.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human143.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human106.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human38.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human158.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human97.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human155.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human2.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human157.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human4.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human129.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human131.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human93.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human132.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human141.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human177.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human104.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human110.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human203.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human92.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human16.png 0 0 156 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human188.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human98.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human171.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human24.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human181.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human51.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human67.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human5.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human137.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human89.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human60.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human58.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human53.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human56.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human40.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human179.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human186.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human1.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human46.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human193.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human199.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human108.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human117.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human3.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human185.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human198.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human194.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human18.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human63.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human209.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human120.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human83.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human156.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human213.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human174.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human111.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human78.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human147.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human148.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human85.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human204.png 0 0 159 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human77.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human72.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human146.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human163.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human211.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human33.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human183.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human12.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human59.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human90.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human95.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human45.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human96.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human187.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human207.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human115.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human178.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human138.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human201.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human31.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human94.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human9.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human88.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human57.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human152.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human149.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human184.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human182.png 0 0 159 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human190.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human39.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human52.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human66.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human206.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human68.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human212.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human166.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human70.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human29.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human61.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human41.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human87.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human100.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human82.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human176.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human133.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human75.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human48.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human180.png 0 0 155 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human118.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human142.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human205.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human107.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human122.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human119.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human11.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human26.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human112.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human126.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human49.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human167.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human162.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human50.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human10.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human114.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human30.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human55.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human74.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human22.png 0 0 158 159
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human124.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human169.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human21.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human103.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human23.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human80.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human210.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human150.png 0 0 152 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human86.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human159.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human8.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human170.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human130.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human144.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human173.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human99.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human19.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human109.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human20.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human62.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human140.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human189.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human81.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human43.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human91.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human139.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human47.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human134.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human161.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human54.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human73.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human27.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human172.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human25.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human196.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human6.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human101.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human15.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human17.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human208.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human84.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human145.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human32.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human105.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human13.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human151.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human168.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human37.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human195.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human127.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human76.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human192.png 0 0 159 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human65.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human79.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human197.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human125.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human135.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human28.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human102.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human71.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human154.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human69.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human35.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human123.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human160.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human164.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human116.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human191.png 0 0 158 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human64.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human7.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human153.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human121.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human202.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human42.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\3human\3human200.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human5.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human42.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human37.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human30.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human15.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human51.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human21.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human54.png 0 0 157 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human26.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human49.png 0 0 132 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human23.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human7.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human32.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human19.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human2.png 0 0 151 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human38.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human28.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human39.png 0 0 154 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human50.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human12.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human3.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human33.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human46.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human29.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human17.png 0 0 156 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human43.png 0 0 148 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human35.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human22.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human9.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human45.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human10.png 0 0 158 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human14.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human6.png 0 0 157 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human20.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human4.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human31.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human47.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human24.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human11.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human40.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human13.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human25.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human48.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human16.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human1.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human44.png 0 0 153 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human36.png 0 0 159 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human18.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human34.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human52.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human55.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human27.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human8.png 0 0 155 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human53.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\0human\0human41.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\5human\5human1.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\5human\5human5.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\5human\5human7.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\5human\5human6.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\5human\5human3.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\5human\5human8.png 0 0 160 160
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\5human\5human4.png
+C:/Users/hroro/PycharmProjects/facial-recognition-video-facenet-master/src/align/training_data_video\5human\5human2.png

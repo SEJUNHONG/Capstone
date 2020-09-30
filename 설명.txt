@@ -1,0 +1,3 @@
+Qt Designer 실행 경로
+C:\Users\mmlab\Anaconda3\Library\bin
+
